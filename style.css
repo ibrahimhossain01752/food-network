@@ -112,10 +112,12 @@ small{
 .vegetables{
     display: flex;
     width: 50%;
+    margin-bottom: 100px;
 }
 .vegetables img{
     width: 200%;
     padding-left: 100px;
+   
    
 }
 .food1{
@@ -151,5 +153,13 @@ small{
     border-radius: 5px;
     color: white;
     padding: 5px 5px;
+    
+}
+#footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 20px;
     
 }
